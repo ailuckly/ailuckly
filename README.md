@@ -1,32 +1,24 @@
-# 👋 Hi, I'm Wayne (ailuckly)
+# 👋 Hello, I'm Wayne
 
-🚀 一名热爱后端技术的开发者，目前专注于 **Java | Spring Boot | DDD | 分布式系统**  
-💡 独立开发过 **AgentX 平台** —— 一款零学习成本的个性化 AI Agent 全栈应用  
-
----
-
-## 🛠 技术栈
-- **语言**：Java / SQL / JavaScript
-- **框架**：Spring Boot / MyBatis / Spring Cloud
-- **数据库**：MySQL / PostgreSQL / Redis
-- **工具**：Docker / Git / Linux / RabbitMQ / Kafka
+💻 一名后端工程师  
+🎯 喜欢写代码，也喜欢折腾一些有趣的小组件  
 
 ---
 
-## 📊 GitHub 统计
-![Stats](https://github-readme-stats.vercel.app/api?username=ailuckly&show_icons=true&theme=radical)  
+## 🕹 有趣的小组件
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ailuckly&layout=compact&theme=radical)
+### 🎮 GitHub 贪吃蛇
+![snake gif](https://github.com/ailuckly/ailuckly/blob/output/github-contribution-grid-snake.svg)
+
+### 📊 GitHub 统计卡片
+![Stats](https://github-readme-stats.vercel.app/api?username=ailuckly&show_icons=true&theme=tokyonight)
+
+### 🌈 常用语言
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ailuckly&layout=compact&theme=tokyonight)
+
+### 👀 访客统计
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ailuckly.ailuckly)
 
 ---
 
-## 🌟 项目展示
-- [**AgentX 平台**](https://github.com/ailuckly/AgentX)  
-  自研高可用组件 + RAG 混合搜索框架 + MCP 协议网关 + 精细化 Token 管理  
-  👉 提供高性能、稳定、智能的 AI Agent 体验
-
----
-
-## 📫 联系我
-- Email: `ailuckly@example.com`
-- GitHub: [@ailuckly](https://github.com/ailuckly)
+✨ 不写太多，就是想让主页看起来 **好玩、有点意思** 🎉
