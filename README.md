@@ -6,21 +6,21 @@
 
 ---
 
-# Hi, I'm **Wayne**
+# Hi, I'm **Wayne** 👨‍💻
 
-> “If it compiles, it ships. If it doesn't… we refactor.”
+> "If it compiles, it ships. If it doesn't… we refactor." 💻
 
-I build backends so stealthy they feel mythical — then I break them on purpose to make them unbreakable.
+I build backends so stealthy they feel mythical — then I break them on purpose to make them unbreakable. 🛡️⚡
 
 ---
 
-## Geeky Demos & Fun Bytes
+## 🎮 Geeky Demos & Fun Bytes
 
 | What You Get          | Ironic Description                              |
 |-----------------------|--------------------------------------------------|
-| Profile Views         | Who’s been snooping around?                      |
-| Streak Heat           | Fire fueled by coffee and questionable decisions |
-| Trophies              | Bling for commits, issues, and other mischief    |
+| 👀 Profile Views         | Who's been snooping around?                      |
+| 🔥 Streak Heat           | Fire fueled by coffee and questionable decisions ☕ |
+| 🏆 Trophies              | Bling for commits, issues, and other mischief    |
 
 ---
 
@@ -40,8 +40,8 @@ I build backends so stealthy they feel mythical — then I break them on purpose
 
 ---
 
-## Connect
+## 🌐 Connect
 
-- GitHub: [@ailuckly](https://github.com/ailuckly)
+- 🐙 GitHub: [@ailuckly](https://github.com/ailuckly)
 
-> “Stay curious. Break limits. Ship things.” 🚀
+> "Stay curious. Break limits. Ship things." 🚀✨
