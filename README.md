@@ -1,6 +1,6 @@
-<!-- ————————— HEADER ————————— -->
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFDD00&height=120&text=Wayne%20The%20Backend%20Wizard&fontSize=40" alt="Wayne the Backend Wizard"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Wayne%20The%20Backend%20Wizard&fontSize=40" alt="Wayne the Backend Wizard" />
 </p>
 
 ---
@@ -9,18 +9,18 @@
 
 > "If it compiles, it ships. If it doesn't,... we refactor."
 
-I build backends that run so smoothly, they’re practically in stealth mode.  
-Also, I break things to understand how to make them unbreakable.
+I build backends so stealthy, you’d think they're fictional.  
+I also break things... on purpose.
 
 ---
 
 ##  Geeky Demos & Fun Bytes
 
-| What You Get | Ironic Description |
-|--------------|--------------------|
-| Visitor Count | Who’s been snooping around? :contentReference[oaicite:4]{index=4} |
-| GitHub Stats | My lifetime contributions (no milk included) |
-| ASCII Terminal Banner | Because text art > pictures :contentReference[oaicite:5]{index=5} |
+| What You Get           | Ironic Description                          |
+|------------------------|---------------------------------------------|
+| Visitor Count          | Who’s been snooping around?                 |
+| GitHub Stats           | My lifetime contributions (no milk included)|
+| ASCII Terminal Banner  | Because text art > pictures                 |
 
 ---
 
@@ -35,6 +35,6 @@ Also, I break things to understand how to make them unbreakable.
 ##  Let's Connect
 
 - GitHub: [@ailuckly](https://github.com/ailuckly)  
-- Email: `ailuckly@example.com`
+- Email: `ailuckly@outlook.com`
 
 > “I don’t do magic. I code, then pray it works.”  
