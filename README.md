@@ -1,40 +1,53 @@
-<!-- Animated Banner -->
+<!-- ======= Header: pick ONE ======= -->
+<!-- A) Typing banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Wayne%20The%20Backend%20Wizard&fontSize=40" alt="Wayne the Backend Wizard" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&center=true&vCenter=true&repeat=true&width=920&lines=Wayne%20%7C%20Backend%20Engineer;Clean%20Design.%20Fast%20Systems.%20Hacker%20Mindset;Shipping%20what%20matters" />
 </p>
 
----
-
-# Hi, I'm **Wayne** — Backend Engineer & Bug Wrangler
-
-> "If it compiles, it ships. If it doesn't,... we refactor."
-
-I build backends so stealthy, you’d think they're fictional.  
-I also break things... on purpose.
+<!-- B) Capsule banner (alt) -->
+<!--
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=140&text=Wayne%20%7C%20Backend%20Engineer&fontSize=42&fontAlignY=35&desc=Performance%20%26%20Clarity&descAlignY=65" />
+</p>
+-->
 
 ---
 
-##  Geeky Demos & Fun Bytes
+# Hi, I'm **Wayne**
 
-| What You Get           | Ironic Description                          |
-|------------------------|---------------------------------------------|
-| Visitor Count          | Who’s been snooping around?                 |
-| GitHub Stats           | My lifetime contributions (no milk included)|
-| ASCII Terminal Banner  | Because text art > pictures                 |
+> “If it compiles, it ships. If it doesn't… we refactor.”
+
+I build backends so stealthy they feel mythical — then I break them on purpose to make them unbreakable.
 
 ---
 
-##  Live Cards
+## Geeky Demos & Fun Bytes
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ailuckly.ailuckly)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ailuckly&show_icons=true&theme=solarized-dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ailuckly&layout=compact&theme=solarized-dark&hide_border=true)
+| What You Get          | Ironic Description                              |
+|-----------------------|--------------------------------------------------|
+| Profile Views         | Who’s been snooping around?                      |
+| Streak Heat           | Fire fueled by coffee and questionable decisions |
+| Trophies              | Bling for commits, issues, and other mischief    |
 
 ---
 
-##  Let's Connect
+## Live Cards
 
-- GitHub: [@ailuckly](https://github.com/ailuckly)  
-- Email: `ailuckly@outlook.com`
+![views](https://komarev.com/ghpvc/?username=ailuckly&style=flat-square)
+![Streak](https://streak-stats.demolab.com?user=ailuckly&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ailuckly&show_icons=true&hide_border=true&theme=tokyonight)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ailuckly&layout=compact&hide_border=true&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ailuckly&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-> “I don’t do magic. I code, then pray it works.”  
+<!-- If you enable workflows above, also embed your generated svgs -->
+<!-- <img src="./metrics.svg" width="100%" /> -->
+<!-- <img src="./profile-3d.svg" width="100%" /> -->
+
+---
+
+## Connect
+
+- GitHub: [@ailuckly](https://github.com/ailuckly)
+- Email: `ailuckly@example.com`
+
+> “Stay curious. Break limits. Ship things.” 🚀
