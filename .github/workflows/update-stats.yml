@@ -12,6 +12,9 @@ jobs:
     permissions:
       contents: write
     steps:
+      # 0. Checkout Repository
+      - uses: actions/checkout@v4
+
       # 1. Generate Streak Stats (Download via curl)
       - name: Generate Streak Stats
         run: |
