@@ -15,51 +15,36 @@ jobs:
       # 0. Checkout Repository
       - uses: actions/checkout@v4
 
-      # 1. Generate Streak Stats (Download via curl)
-      - name: Generate Streak Stats
+      # 1. Prepare Assets Directory
+      - name: Prepare Assets Directory
+        run: mkdir -p assets
+
+      # 2. Download Streak Stats
+      - name: Download Streak Stats
         run: |
-          mkdir -p assets
-          curl -o assets/streak.svg "https://streak-stats.demolab.com?user=ailuckly&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+          curl -L -o assets/streak.svg "https://streak-stats.demolab.com?user=ailuckly&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
 
-      # 2. Generate General Stats (using lowlighter/metrics)
-      - name: Generate General Stats
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Shanghai
-          config_display: large
+      # 3. Download General Stats
+      - name: Download General Stats
+        run: |
+          curl -L -o assets/stats.svg "https://github-readme-stats.vercel.app/api?username=ailuckly&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&rank_icon=github"
 
-      # 3. Generate Top Languages
-      - name: Generate Top Languages
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_details: bytes-size, percentage
+      # 4. Download Top Languages
+      - name: Download Top Languages
+        run: |
+          curl -L -o assets/langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=ailuckly&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&card_width=360"
 
-      # 4. Generate Trophies
-      - name: Generate Trophies
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/trophies.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_trophies: yes
-          plugin_trophies_display: compact
+      # 5. Download Trophies
+      - name: Download Trophies
+        run: |
+          curl -L -o assets/trophies.svg "https://github-profile-trophy.vercel.app/?username=ailuckly&theme=onedark&no-frame=true&no-bg=true&row=1&column=3"
 
-      # 5. Commit and Push
+      # 6. Commit and Push
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git pull
+          git pull --rebase
           git add assets/
           git commit -m "Update stats images" || exit 0
           git push
