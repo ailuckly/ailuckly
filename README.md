@@ -28,20 +28,26 @@ I build backends so stealthy they feel mythical — then I break them on purpose
 
 <div align="center">
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ailuckly&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=ailuckly&theme=tokyonight&hide_border=true)
-
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ailuckly&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 ### 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=ailuckly&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7)
+![Trophy](https://github-profile-trophy.vercel.app/?username=ailuckly&theme=tokyonight&no-frame=true&no-bg=false&row=2&column=4)
 
-### 📈 Contribution Graph
+### � Contribution Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ailuckly&theme=tokyo-night&hide_border=true)](https://github.com/ailuckly)
+
+### � Profile Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ailuckly&theme=tokyonight)
+
+### 📅 Contribution Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ailuckly&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ailuckly&theme=tokyonight" alt="Productive Time" />
+</p>
+
+### � Language Distribution
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ailuckly&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ailuckly&theme=tokyonight" alt="Most Commit Language" />
+</p>
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
