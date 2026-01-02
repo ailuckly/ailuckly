@@ -28,23 +28,12 @@ I build backends so stealthy they feel mythical — then I break them on purpose
 
 <div align="center">
 
-### � Contribution Graph
+| 📊 Stats | ⏰ Active Time | 📝 Languages | 💬 Commits |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ailuckly&theme=tokyonight" width="280"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ailuckly&theme=tokyonight" width="280"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ailuckly&theme=tokyonight" width="280"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ailuckly&theme=tokyonight" width="280"/> |
+
+### 📈 Contribution Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ailuckly&theme=tokyo-night&hide_border=true)](https://github.com/ailuckly)
-
-### � Profile Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ailuckly&theme=tokyonight)
-
-### 📅 Contribution Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ailuckly&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ailuckly&theme=tokyonight" alt="Productive Time" />
-</p>
-
-### � Language Distribution
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ailuckly&theme=tokyonight" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ailuckly&theme=tokyonight" alt="Most Commit Language" />
-</p>
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
