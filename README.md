@@ -28,9 +28,6 @@ I build backends so stealthy they feel mythical — then I break them on purpose
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=ailuckly&theme=tokyonight&no-frame=true&no-bg=false&row=2&column=4)
-
 ### � Contribution Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ailuckly&theme=tokyo-night&hide_border=true)](https://github.com/ailuckly)
 
