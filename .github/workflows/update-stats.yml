@@ -1,0 +1,66 @@
+name: Update Stats
+on:
+  schedule:
+    - cron: "0 0 * * *" # Run daily
+  workflow_dispatch: # Allow manual run
+  push:
+    branches: ["master", "main"]
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # 1. Generate Streak Stats
+      - name: Generate Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@v3
+        with:
+          github_user: ailuckly
+          svg_out_path: assets/streak.svg
+          theme: tokyonight
+          hide_border: true
+          date_format: "M j[, Y]"
+
+      # 2. Generate General Stats (using lowlighter/metrics)
+      - name: Generate General Stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
+          config_display: large
+
+      # 3. Generate Top Languages
+      - name: Generate Top Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+
+      # 4. Generate Trophies
+      - name: Generate Trophies
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_trophies: yes
+          plugin_trophies_display: compact
+
+      # 5. Commit and Push
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull
+          git add assets/
+          git commit -m "Update stats images" || exit 0
+          git push
