@@ -15,6 +15,7 @@ jobs:
       # 1. Generate Streak Stats (Download via curl)
       - name: Generate Streak Stats
         run: |
+          mkdir -p assets
           curl -o assets/streak.svg "https://streak-stats.demolab.com?user=ailuckly&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
 
       # 2. Generate General Stats (using lowlighter/metrics)
