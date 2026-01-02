@@ -44,7 +44,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase
           git add assets/
-          git commit -m "Update stats images" || exit 0
+          git diff --staged --quiet || git commit -m "Update stats images"
+          git pull --rebase origin main
           git push
