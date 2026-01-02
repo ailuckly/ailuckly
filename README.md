@@ -28,7 +28,7 @@ I build backends so stealthy they feel mythical — then I break them on purpose
 
 | Streak                                                                                                          | Stats                                                                                                    |
 |---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| ![Streak](assets/streak.svg) | ![Stats](assets/stats.svg) |
+| ![Streak](https://github-readme-streak-stats.herokuapp.com?user=ailuckly&theme=tokyonight&hide_border=true) | ![Stats](assets/stats.svg) |
 
 | Top Languages                                                                                                  | Trophies                                                                                                 |
 |---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
