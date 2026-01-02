@@ -12,15 +12,10 @@ jobs:
     permissions:
       contents: write
     steps:
-      # 1. Generate Streak Stats
+      # 1. Generate Streak Stats (Download via curl)
       - name: Generate Streak Stats
-        uses: DenverCoder1/github-readme-streak-stats@v1.5.0
-        with:
-          github_user: ailuckly
-          svg_out_path: assets/streak.svg
-          theme: tokyonight
-          hide_border: true
-          date_format: "M j[, Y]"
+        run: |
+          curl -o assets/streak.svg "https://streak-stats.demolab.com?user=ailuckly&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
 
       # 2. Generate General Stats (using lowlighter/metrics)
       - name: Generate General Stats
