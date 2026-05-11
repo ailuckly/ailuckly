@@ -1,54 +1,46 @@
-<!-- ======= Header: pick ONE ======= -->
-<!-- A) Typing banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&center=true&vCenter=true&repeat=true&width=920&lines=Wayne%20%7C%20Backend%20Engineer;Clean%20Design.%20Fast%20Systems.%20Hacker%20Mindset;Shipping%20what%20matters" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&center=true&vCenter=true&repeat=true&width=920&lines=Wayne%20%7C%20AI%20Application%20Developer;Building%20practical%20AI%20apps%20and%20agent%20workflows;Shipping%20useful%20automation" />
 </p>
 
 ---
 
-# Hi, I'm **Wayne** 👨‍💻
+# Hi, I'm **Wayne**
 
-> "If it compiles, it ships. If it doesn't… we refactor." 💻
+AI application developer focused on building practical tools with LLMs, agents, and automation.
 
-I build backends so stealthy they feel mythical — then I break them on purpose to make them unbreakable. 🛡️⚡
-
----
-
-## 🎮 Geeky Demos & Fun Bytes
-
-| What You Get          | Ironic Description                              |
-|-----------------------|--------------------------------------------------|
-| 👀 Profile Views         | Who's been snooping around?                      |
-| 🔥 Streak Heat           | Fire fueled by coffee and questionable decisions ☕ |
-| 🏆 Trophies              | Bling for commits, issues, and other mischief    |
+I like turning new AI capabilities into products people can actually use: clear workflows, reliable integrations, and small details that make the experience feel smooth.
 
 ---
 
-## 🔥 Live Cards
+## Focus
+
+- AI applications
+- LLM agents
+- Automation tools
+
+---
+
+## GitHub Snapshot
 
 <div align="center">
 
-| 📊 Stats | ⏰ Active Time | 📝 Languages | 💬 Commits |
-|:---:|:---:|:---:|:---:|
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ailuckly&theme=tokyonight" width="280"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ailuckly&theme=tokyonight" width="280"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ailuckly&theme=tokyonight" width="280"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ailuckly&theme=tokyonight" width="280"/> |
-
-### 📈 Contribution Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ailuckly&theme=tokyo-night&hide_border=true)](https://github.com/ailuckly)
-
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ailuckly&theme=tokyonight" width="100%" />
+    </td>
+    <td width="50%">
+      <a href="https://github.com/ailuckly">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ailuckly&theme=tokyo-night&hide_border=true" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<!-- If you enable workflows above, also embed your generated svgs -->
-<!-- <img src="./metrics.svg" width="100%" /> -->
-<!-- <img src="./profile-3d.svg" width="100%" /> -->
-
 ---
 
-## 🌐 Connect
+## Connect
 
-- 🐙 GitHub: [@ailuckly](https://github.com/ailuckly)
-
-> "Stay curious. Break limits. Ship things." 🚀✨
+- GitHub: [@ailuckly](https://github.com/ailuckly)
