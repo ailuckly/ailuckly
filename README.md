@@ -27,7 +27,7 @@ I like turning new AI capabilities into products people can actually use: clear 
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ailuckly&theme=tokyonight" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=ailuckly&theme=tokyonight&hide_border=true" width="100%" />
     </td>
     <td width="50%">
       <a href="https://github.com/ailuckly">
