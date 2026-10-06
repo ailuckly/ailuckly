@@ -29,7 +29,3 @@ I build **practical AI applications** — turning LLM capabilities into products
 <p>
   <img src="https://streak-stats.demolab.com/?user=ailuckly&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
-
-<p>
-  <img src="https://ghchart.rshah.org/7aa2f7/ailuckly" alt="Contribution chart" width="100%" />
-</p>
