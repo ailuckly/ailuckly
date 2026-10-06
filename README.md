@@ -19,29 +19,6 @@ I build **practical AI applications** — turning LLM capabilities into products
 - ⚙️ Care about clear workflows, reliable integrations, and the small details that make UX feel smooth
 - ✍️ Writing notes at [wayne-blog.vercel.app](https://wayne-blog.vercel.app)
 
-### Tech stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,python,ts,vue,react,nextjs,tailwind,docker,linux,git&perline=13" alt="Tech stack" />
-</p>
-
-### Featured projects
-
-<p>
-  <a href="https://github.com/ailuckly/VocaTa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ailuckly&repo=VocaTa&theme=tokyonight&hide_border=true&description_lines_count=2" alt="VocaTa" width="49%" />
-  </a>
-  <a href="https://github.com/ailuckly/QA_Private_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ailuckly&repo=QA_Private_System&theme=tokyonight&hide_border=true&description_lines_count=2" alt="QA_Private_System" width="49%" />
-  </a>
-</p>
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**VocaTa · 语Ta**](https://github.com/ailuckly/VocaTa) | AI role-play platform for real-time voice conversations with characters | Java · Spring Boot · Vue · Docker |
-| [**QA Private System**](https://github.com/ailuckly/QA_Private_System) | Private RAG knowledge-base Q&A: ingest → chunk → embed → retrieve → stream answers with citations | Java · Spring Boot · Vue · TypeScript |
-| [**Wayne Blog**](https://wayne-blog.vercel.app) | Personal blog — recording good things | Next.js · TypeScript · MDX |
-
 ### GitHub snapshot
 
 <p>
