@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://wayne-blog.vercel.app"><img src="https://img.shields.io/badge/Blog-wayne--blog.vercel.app-7aa2f7?style=flat-square&logo=vercel&logoColor=white" alt="Blog" /></a>
   <a href="https://github.com/ailuckly?tab=repositories"><img src="https://img.shields.io/badge/GitHub-ailuckly-1a1b27?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ailuckly&style=flat-square&color=7aa2f7&label=Profile+views" alt="Profile views" />
 </p>
 
 ---
