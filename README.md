@@ -22,9 +22,5 @@ I build **practical AI applications** — turning LLM capabilities into products
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ailuckly&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ailuckly&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" height="165" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=ailuckly&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=ailuckly&theme=tokyonight&hide_border=true" alt="GitHub streak" alt="Top languages" height="165"/>
 </p>
